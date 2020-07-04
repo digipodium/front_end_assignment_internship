@@ -35,5 +35,7 @@ the github repository should have all the content, so the webpage correctly
 - Responsive webpage
 - extra UI/UX implemenation
 
+## Results
+the results will be announced a day after (Wednesday)
 
-good luck to all participants
+## good luck to all participants
