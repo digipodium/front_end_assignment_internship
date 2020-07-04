@@ -11,6 +11,7 @@ The intern's assesment is divided into two levels.
 1. Assesment of coding skills in frontend design
 2. A formal interview, if you clear level 1
 
+Any queries related to duration, stipend and other queries will be taken care during interview
 
 <h1 style="color:red">Level 1</h1>
 
